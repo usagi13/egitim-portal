@@ -1,0 +1,6 @@
+{
+  "name": "Öğretmen Portalı & Eğitsel Oyunlar Dünyası",
+  "description": "Öğretmen kaynakları, ders planları, eğitsel oyunlar ve ilham veren eğitim düşünceleriyle donatılmış zengin eğitim platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
